@@ -26,3 +26,9 @@ describe('ProductService', () => {
     expect(items).toEqual([{ item: 'Milk', available: true }]);
   });
 });
+
+// mock
+// 구현사항이 없고 내가 원하는 것만 부분적으로 흉내
+
+// stub
+// 기존에 쓰이는 인터페이스를 충족
